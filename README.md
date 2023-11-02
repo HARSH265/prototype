@@ -2,4 +2,4 @@
 
 ## view at -
 
-![preview img](/preview.jpg)
+![preview img](/preview.png)
